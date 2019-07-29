@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\Puzzles\\Puzzles.csproj": {}
+    "E:\\C-Sharp\\Fundamentals\\Puzzles\\Puzzles.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\Puzzles\\Puzzles.csproj": {
+    "E:\\C-Sharp\\Fundamentals\\Puzzles\\Puzzles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\Puzzles\\Puzzles.csproj",
+        "projectUniqueName": "E:\\C-Sharp\\Fundamentals\\Puzzles\\Puzzles.csproj",
         "projectName": "Puzzles",
-        "projectPath": "E:\\C-Sharp\\Puzzles\\Puzzles.csproj",
+        "projectPath": "E:\\C-Sharp\\Fundamentals\\Puzzles\\Puzzles.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\Puzzles\\obj\\",
+        "outputPath": "E:\\C-Sharp\\Fundamentals\\Puzzles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
