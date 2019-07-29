@@ -1,0 +1,11 @@
+E:\C-Sharp\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.csprojAssemblyReference.cache
+E:\C-Sharp\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.csproj.CoreCompileInputs.cache
+E:\C-Sharp\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.AssemblyInfoInputs.cache
+E:\C-Sharp\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.AssemblyInfo.cs
+E:\C-Sharp\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.deps.json
+E:\C-Sharp\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.runtimeconfig.json
+E:\C-Sharp\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.runtimeconfig.dev.json
+E:\C-Sharp\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.dll
+E:\C-Sharp\CollectionsPractice\bin\Debug\netcoreapp2.2\CollectionsPractice.pdb
+E:\C-Sharp\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.dll
+E:\C-Sharp\CollectionsPractice\obj\Debug\netcoreapp2.2\CollectionsPractice.pdb

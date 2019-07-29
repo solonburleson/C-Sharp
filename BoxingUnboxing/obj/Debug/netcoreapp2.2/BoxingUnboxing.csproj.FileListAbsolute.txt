@@ -1,0 +1,11 @@
+E:\C-Sharp\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.deps.json
+E:\C-Sharp\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.runtimeconfig.json
+E:\C-Sharp\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.runtimeconfig.dev.json
+E:\C-Sharp\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.dll
+E:\C-Sharp\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.pdb
+E:\C-Sharp\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.csprojAssemblyReference.cache
+E:\C-Sharp\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.csproj.CoreCompileInputs.cache
+E:\C-Sharp\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.AssemblyInfoInputs.cache
+E:\C-Sharp\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.AssemblyInfo.cs
+E:\C-Sharp\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.dll
+E:\C-Sharp\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.pdb

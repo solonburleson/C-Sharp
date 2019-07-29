@@ -1,0 +1,11 @@
+E:\C-Sharp\Basic13\bin\Debug\netcoreapp2.2\Basic13.deps.json
+E:\C-Sharp\Basic13\bin\Debug\netcoreapp2.2\Basic13.runtimeconfig.json
+E:\C-Sharp\Basic13\bin\Debug\netcoreapp2.2\Basic13.runtimeconfig.dev.json
+E:\C-Sharp\Basic13\bin\Debug\netcoreapp2.2\Basic13.dll
+E:\C-Sharp\Basic13\bin\Debug\netcoreapp2.2\Basic13.pdb
+E:\C-Sharp\Basic13\obj\Debug\netcoreapp2.2\Basic13.csprojAssemblyReference.cache
+E:\C-Sharp\Basic13\obj\Debug\netcoreapp2.2\Basic13.csproj.CoreCompileInputs.cache
+E:\C-Sharp\Basic13\obj\Debug\netcoreapp2.2\Basic13.AssemblyInfoInputs.cache
+E:\C-Sharp\Basic13\obj\Debug\netcoreapp2.2\Basic13.AssemblyInfo.cs
+E:\C-Sharp\Basic13\obj\Debug\netcoreapp2.2\Basic13.dll
+E:\C-Sharp\Basic13\obj\Debug\netcoreapp2.2\Basic13.pdb

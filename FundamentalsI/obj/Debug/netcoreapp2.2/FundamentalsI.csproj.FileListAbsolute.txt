@@ -1,0 +1,11 @@
+E:\C-Sharp\FundamentalsI\bin\Debug\netcoreapp2.2\FundamentalsI.deps.json
+E:\C-Sharp\FundamentalsI\bin\Debug\netcoreapp2.2\FundamentalsI.runtimeconfig.json
+E:\C-Sharp\FundamentalsI\bin\Debug\netcoreapp2.2\FundamentalsI.runtimeconfig.dev.json
+E:\C-Sharp\FundamentalsI\bin\Debug\netcoreapp2.2\FundamentalsI.dll
+E:\C-Sharp\FundamentalsI\bin\Debug\netcoreapp2.2\FundamentalsI.pdb
+E:\C-Sharp\FundamentalsI\obj\Debug\netcoreapp2.2\FundamentalsI.csprojAssemblyReference.cache
+E:\C-Sharp\FundamentalsI\obj\Debug\netcoreapp2.2\FundamentalsI.csproj.CoreCompileInputs.cache
+E:\C-Sharp\FundamentalsI\obj\Debug\netcoreapp2.2\FundamentalsI.AssemblyInfoInputs.cache
+E:\C-Sharp\FundamentalsI\obj\Debug\netcoreapp2.2\FundamentalsI.AssemblyInfo.cs
+E:\C-Sharp\FundamentalsI\obj\Debug\netcoreapp2.2\FundamentalsI.dll
+E:\C-Sharp\FundamentalsI\obj\Debug\netcoreapp2.2\FundamentalsI.pdb

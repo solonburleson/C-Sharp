@@ -8,6 +8,9 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("The current time is " + DateTime.Now);
+            string place = "Coding Dojo";
+            string message = $"Hello {place}";
+            Console.WriteLine(message);
         }
     }
 }
