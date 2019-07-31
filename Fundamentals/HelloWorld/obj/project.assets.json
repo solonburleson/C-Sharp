@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C-Sharp\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "e:\\C-Sharp\\Fundamentals\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "E:\\C-Sharp\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "e:\\C-Sharp\\Fundamentals\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-      "outputPath": "E:\\C-Sharp\\HelloWorld\\obj\\",
+      "outputPath": "e:\\C-Sharp\\Fundamentals\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

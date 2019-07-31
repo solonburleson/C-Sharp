@@ -1,0 +1,11 @@
+E:\C-Sharp\OOP\DeckOfCards\obj\Debug\netcoreapp2.2\DeckOfCards.csprojAssemblyReference.cache
+E:\C-Sharp\OOP\DeckOfCards\obj\Debug\netcoreapp2.2\DeckOfCards.csproj.CoreCompileInputs.cache
+E:\C-Sharp\OOP\DeckOfCards\obj\Debug\netcoreapp2.2\DeckOfCards.AssemblyInfoInputs.cache
+E:\C-Sharp\OOP\DeckOfCards\obj\Debug\netcoreapp2.2\DeckOfCards.AssemblyInfo.cs
+E:\C-Sharp\OOP\DeckOfCards\bin\Debug\netcoreapp2.2\DeckOfCards.deps.json
+E:\C-Sharp\OOP\DeckOfCards\bin\Debug\netcoreapp2.2\DeckOfCards.runtimeconfig.json
+E:\C-Sharp\OOP\DeckOfCards\bin\Debug\netcoreapp2.2\DeckOfCards.runtimeconfig.dev.json
+E:\C-Sharp\OOP\DeckOfCards\bin\Debug\netcoreapp2.2\DeckOfCards.dll
+E:\C-Sharp\OOP\DeckOfCards\bin\Debug\netcoreapp2.2\DeckOfCards.pdb
+E:\C-Sharp\OOP\DeckOfCards\obj\Debug\netcoreapp2.2\DeckOfCards.dll
+E:\C-Sharp\OOP\DeckOfCards\obj\Debug\netcoreapp2.2\DeckOfCards.pdb

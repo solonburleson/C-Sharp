@@ -1,0 +1,11 @@
+E:\C-Sharp\OOP\Human\obj\Debug\netcoreapp2.2\Human.csprojAssemblyReference.cache
+E:\C-Sharp\OOP\Human\obj\Debug\netcoreapp2.2\Human.csproj.CoreCompileInputs.cache
+E:\C-Sharp\OOP\Human\obj\Debug\netcoreapp2.2\Human.AssemblyInfoInputs.cache
+E:\C-Sharp\OOP\Human\obj\Debug\netcoreapp2.2\Human.AssemblyInfo.cs
+E:\C-Sharp\OOP\Human\bin\Debug\netcoreapp2.2\Human.deps.json
+E:\C-Sharp\OOP\Human\bin\Debug\netcoreapp2.2\Human.runtimeconfig.json
+E:\C-Sharp\OOP\Human\bin\Debug\netcoreapp2.2\Human.runtimeconfig.dev.json
+E:\C-Sharp\OOP\Human\bin\Debug\netcoreapp2.2\Human.dll
+E:\C-Sharp\OOP\Human\bin\Debug\netcoreapp2.2\Human.pdb
+E:\C-Sharp\OOP\Human\obj\Debug\netcoreapp2.2\Human.dll
+E:\C-Sharp\OOP\Human\obj\Debug\netcoreapp2.2\Human.pdb

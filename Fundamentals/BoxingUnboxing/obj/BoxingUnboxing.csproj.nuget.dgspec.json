@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\BoxingUnboxing\\BoxingUnboxing.csproj": {}
+    "e:\\C-Sharp\\Fundamentals\\BoxingUnboxing\\BoxingUnboxing.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\BoxingUnboxing\\BoxingUnboxing.csproj": {
+    "e:\\C-Sharp\\Fundamentals\\BoxingUnboxing\\BoxingUnboxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\BoxingUnboxing\\BoxingUnboxing.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\Fundamentals\\BoxingUnboxing\\BoxingUnboxing.csproj",
         "projectName": "BoxingUnboxing",
-        "projectPath": "E:\\C-Sharp\\BoxingUnboxing\\BoxingUnboxing.csproj",
+        "projectPath": "e:\\C-Sharp\\Fundamentals\\BoxingUnboxing\\BoxingUnboxing.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\BoxingUnboxing\\obj\\",
+        "outputPath": "e:\\C-Sharp\\Fundamentals\\BoxingUnboxing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
