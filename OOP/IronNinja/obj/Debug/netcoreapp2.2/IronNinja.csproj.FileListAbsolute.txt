@@ -1,0 +1,11 @@
+E:\C-Sharp\OOP\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.deps.json
+E:\C-Sharp\OOP\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.runtimeconfig.json
+E:\C-Sharp\OOP\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.runtimeconfig.dev.json
+E:\C-Sharp\OOP\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.dll
+E:\C-Sharp\OOP\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.pdb
+E:\C-Sharp\OOP\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.csprojAssemblyReference.cache
+E:\C-Sharp\OOP\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.csproj.CoreCompileInputs.cache
+E:\C-Sharp\OOP\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.AssemblyInfoInputs.cache
+E:\C-Sharp\OOP\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.AssemblyInfo.cs
+E:\C-Sharp\OOP\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.dll
+E:\C-Sharp\OOP\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.pdb

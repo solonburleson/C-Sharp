@@ -1,0 +1,15 @@
+E:\C-Sharp\OOP\Phone\obj\Debug\netcoreapp2.2\Phone.csprojAssemblyReference.cache
+E:\C-Sharp\OOP\Phone\obj\Debug\netcoreapp2.2\Phone.csproj.CoreCompileInputs.cache
+E:\C-Sharp\OOP\Phone\obj\Debug\netcoreapp2.2\Phone.AssemblyInfoInputs.cache
+E:\C-Sharp\OOP\Phone\obj\Debug\netcoreapp2.2\Phone.AssemblyInfo.cs
+E:\C-Sharp\OOP\Phones\obj\Debug\netcoreapp2.2\Phone.csprojAssemblyReference.cache
+E:\C-Sharp\OOP\Phones\obj\Debug\netcoreapp2.2\Phone.csproj.CoreCompileInputs.cache
+E:\C-Sharp\OOP\Phones\obj\Debug\netcoreapp2.2\Phone.AssemblyInfoInputs.cache
+E:\C-Sharp\OOP\Phones\obj\Debug\netcoreapp2.2\Phone.AssemblyInfo.cs
+E:\C-Sharp\OOP\Phones\bin\Debug\netcoreapp2.2\Phone.deps.json
+E:\C-Sharp\OOP\Phones\bin\Debug\netcoreapp2.2\Phone.runtimeconfig.json
+E:\C-Sharp\OOP\Phones\bin\Debug\netcoreapp2.2\Phone.runtimeconfig.dev.json
+E:\C-Sharp\OOP\Phones\bin\Debug\netcoreapp2.2\Phone.dll
+E:\C-Sharp\OOP\Phones\bin\Debug\netcoreapp2.2\Phone.pdb
+E:\C-Sharp\OOP\Phones\obj\Debug\netcoreapp2.2\Phone.dll
+E:\C-Sharp\OOP\Phones\obj\Debug\netcoreapp2.2\Phone.pdb
