@@ -1,0 +1,45 @@
+#box {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 2% 5%;
+}
+
+textarea {
+    width: 100%;
+}
+
+label {
+    display: inline-block;
+    width: 50%;
+    margin-right: 3%;
+}
+
+input {
+    width: 45%;
+}
+
+select {
+    width: 45%;
+}
+
+.row {
+    margin: 2% 0;
+}
+
+input[type=submit] {
+    width: 10%;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    float: right;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+p {
+    width: 45%;
+    display: inline-block;
+}

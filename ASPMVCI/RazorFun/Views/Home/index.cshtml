@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Razor Fun!</title>
+    <link rel="stylesheet" href="~/css/style.css"/>
+</head>
+<body>
+    <h1>Here are some delicious foods!</h1>
+    @{
+        string[] foods = {"Apple Pie","Burrito","Clams Casino","Donuts"};
+
+        foreach(var food in foods)
+        {
+            int count = 0;
+            foreach(var letter in food)
+            {
+                if(letter == 'c' || letter == 'C')
+                {
+                    count++;
+                }
+            }
+            if(count == 0)
+            {
+                <p>@food</p>
+            }
+            else
+            {
+                <p class="red">@food</p>
+            }
+        }
+    }
+</body>
+</html>

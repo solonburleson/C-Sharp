@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    margin: 5% 0;
+}
+
+#datetime {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+h2{
+    text-align: center;
+}
