@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Users";
+}
+
+@using System.Collections.Generic
+@using ViewModelFun.Models
+@model List<User>
+
+<h1>Here are some Users!</h1>
+<div class="border">
+    @foreach (var user in Model)
+    {
+        <p>@user.FirstName @user.LastName</p>
+    }
+</div>
