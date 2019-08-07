@@ -1,0 +1,9 @@
+@{
+    ViewData["Title"] = "Random Passcode Generator";
+}
+
+<h2>Random passcode (passcode #@ViewBag.count)</h2>
+<h1>@ViewBag.passcode</h1>
+<form class="text-center m-2" action="count" method="post">
+    <input class="btn btn-success" type="submit" value="Generate" />
+</form>

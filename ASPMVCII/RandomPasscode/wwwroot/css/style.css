@@ -1,0 +1,12 @@
+h2 {
+    text-align: center;
+    padding: 3%;
+}
+
+h1 {
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+    margin: 2% auto;
+    padding: 1%;
+}
