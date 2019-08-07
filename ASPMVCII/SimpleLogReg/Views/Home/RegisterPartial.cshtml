@@ -1,0 +1,35 @@
+@using SimpleLogReg.Models;
+@model RegUser
+
+<form asp-action="register" asp-controller="Home" method="post">
+    <div class="d-inline-block col-5">
+        <div>
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" />
+            <span class="text-danger" asp-validation-for="FirstName"></span>
+        </div>
+        <div>
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" />
+            <span class="text-danger" asp-validation-for="LastName"></span>
+        </div>
+        <div>
+            <label asp-for="Email"></label>
+            <input asp-for="Email" />
+            <span class="text-danger" asp-validation-for="Email"></span>
+        </div>
+    </div>
+    <div class="d-inline-block col-5 align-top">
+        <div>
+            <label asp-for="Password"></label>
+            <input asp-for="Password" />
+            <span class="text-danger" asp-validation-for="Password"></span>
+        </div>
+        <div>
+            <label asp-for="ConfirmPw"></label>
+            <input asp-for="ConfirmPw" />
+            <span class="text-danger" asp-validation-for="ConfirmPw"></span>
+        </div>
+    </div>
+    <input class="btn btn-primary mx-3" type="submit" value="Register" />
+</form>

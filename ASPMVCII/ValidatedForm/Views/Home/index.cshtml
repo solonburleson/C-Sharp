@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Form";
+}
+
+@using ValidatedForm.Models
+@model User
+
+<h1>Enter your information</h1>
+<form asp-action="submit" asp-controller="Home" method="post">
+    <div>
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" />
+        <span class="red" asp-validation-for="FirstName"></span>
+    </div>
+    <div>
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" />
+        <span class="red" asp-validation-for="LastName"></span>
+    </div>
+    <div>
+        <label asp-for="Age"></label>
+        <input asp-for="Age" />
+        <span class="red" asp-validation-for="Age"></span>
+    </div>
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+        <span class="red" asp-validation-for="Email"></span>
+    </div>
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" />
+        <span class="red" asp-validation-for="Password"></span>
+    </div>
+    <input type="submit" />
+</form>

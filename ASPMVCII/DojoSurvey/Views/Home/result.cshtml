@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Dojo Survey Results";
+}
+
+@using DojoSurvey.Models
+@model Survey
+
+<h1>Submitted Info</h1>
+<p>Name:</p>
+<p>@Model.Name</p>
+<p>Dojo Location:</p>
+<p>@Model.Location</p>
+<p>Favorite Language:</p>
+<p>@Model.Language</p>
+<p>Comments:</p>
+<p>@Model.Comment</p>
