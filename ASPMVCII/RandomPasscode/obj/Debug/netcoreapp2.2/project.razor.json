@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\C-Sharp\\ASPMVCII\\DojoSurvey\\DojoSurvey.csproj",
+  "FilePath": "e:\\C-Sharp\\ASPMVCII\\RandomPasscode\\RandomPasscode.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2940,13 +2940,8 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "DojoSurvey",
+  "RootNamespace": "RandomPasscode",
   "Documents": [
-    {
-      "FilePath": "Views\\Home\\result.cshtml",
-      "TargetPath": "Views\\Home\\result.cshtml",
-      "FileKind": "mvc"
-    },
     {
       "FilePath": "Views\\Home\\index.cshtml",
       "TargetPath": "Views\\Home\\index.cshtml",

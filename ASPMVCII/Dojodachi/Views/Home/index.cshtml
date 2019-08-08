@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "Dojodachi";
+}
+
+<div class="half center">
+    <span>Fullness: @ViewBag.full</span>
+    <span>Happiness: @ViewBag.happy</span>
+    <span>Meals: @ViewBag.meals</span>
+    <span>Energy: @ViewBag.energy</span>
+</div>
+<div class="half center text-center">
+    <img src='@Url.Content("~/images/placeholder.png")'>
+    <p>@ViewBag.message</p>
+</div>
+<div class="half center text-center">
+    @if(@ViewBag.status == "playing")
+    {
+        <a class="btn btn-primary" href="feed">Feed</a>
+        <a class="btn btn-success" href="play">Play</a>
+        <a class="btn btn-info" href="work">Work</a>
+        <a class="btn btn-dark" href="sleep">Sleep</a>
+    }
+    else
+    {
+        <a class="btn btn-danger" href="restart">Restart?</a>
+    }
+</div>
