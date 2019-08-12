@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\C-Sharp\\ASPMVCI\\DojoSurvey\\DojoSurvey.csproj",
+  "FilePath": "e:\\C-Sharp\\ASPMVCII\\Dojodachi\\Dojodachi.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2940,16 +2940,26 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "DojoSurvey",
+  "RootNamespace": "Dojodachi",
   "Documents": [
-    {
-      "FilePath": "Views\\Home\\result.cshtml",
-      "TargetPath": "Views\\Home\\result.cshtml",
-      "FileKind": "mvc"
-    },
     {
       "FilePath": "Views\\Home\\index.cshtml",
       "TargetPath": "Views\\Home\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

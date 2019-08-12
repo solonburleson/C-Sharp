@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Add Quote";
+}
+
+@using QuotingDojo.Models;
+@model Quotes
+
+<h1>Welcome to QuotingDojo</h1>
+<form asp-action="quotes" asp-controller="Home" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label asp-for="Quote"></label>
+        <textarea asp-for="Quote" rows="4"></textarea>
+        <span asp-validation-for="Quote"></span>
+    </div>
+    <input class="btn btn-primary" type="submit" value="Add my quote" />
+    <a class="btn btn-success" href="/quotes">Skip to quotes!</a>
+</form>

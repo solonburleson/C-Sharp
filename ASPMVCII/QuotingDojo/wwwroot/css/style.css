@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+}
+
+textarea {
+    width: 70%;
+}
+
+div {
+    margin: 2%;
+    padding: 1%;
+}
+
+input[type="submit"] {
+    margin: 0 13%;
+}
+
+a {
+    margin: 0 13%;
+}
+
+.at {
+    margin: 0 5%;
+}
