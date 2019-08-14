@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCII\\RandomPasscode\\RandomPasscode.csproj": {}
+    "e:\\C-Sharp\\ASPMVCII\\RandomPasscode\\RandomPasscode.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCII\\RandomPasscode\\RandomPasscode.csproj": {
+    "e:\\C-Sharp\\ASPMVCII\\RandomPasscode\\RandomPasscode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCII\\RandomPasscode\\RandomPasscode.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCII\\RandomPasscode\\RandomPasscode.csproj",
         "projectName": "RandomPasscode",
-        "projectPath": "E:\\C-Sharp\\ASPMVCII\\RandomPasscode\\RandomPasscode.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCII\\RandomPasscode\\RandomPasscode.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCII\\RandomPasscode\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCII\\RandomPasscode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

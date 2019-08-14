@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\OOP\\IronNinja\\IronNinja.csproj": {}
+    "e:\\C-Sharp\\OOP\\IronNinja\\IronNinja.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\OOP\\IronNinja\\IronNinja.csproj": {
+    "e:\\C-Sharp\\OOP\\IronNinja\\IronNinja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\OOP\\IronNinja\\IronNinja.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\OOP\\IronNinja\\IronNinja.csproj",
         "projectName": "IronNinja",
-        "projectPath": "E:\\C-Sharp\\OOP\\IronNinja\\IronNinja.csproj",
+        "projectPath": "e:\\C-Sharp\\OOP\\IronNinja\\IronNinja.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\OOP\\IronNinja\\obj\\",
+        "outputPath": "e:\\C-Sharp\\OOP\\IronNinja\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

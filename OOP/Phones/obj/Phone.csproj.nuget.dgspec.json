@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\OOP\\Phones\\Phone.csproj": {}
+    "e:\\C-Sharp\\OOP\\Phones\\Phone.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\OOP\\Phones\\Phone.csproj": {
+    "e:\\C-Sharp\\OOP\\Phones\\Phone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\OOP\\Phones\\Phone.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\OOP\\Phones\\Phone.csproj",
         "projectName": "Phone",
-        "projectPath": "E:\\C-Sharp\\OOP\\Phones\\Phone.csproj",
+        "projectPath": "e:\\C-Sharp\\OOP\\Phones\\Phone.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\OOP\\Phones\\obj\\",
+        "outputPath": "e:\\C-Sharp\\OOP\\Phones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

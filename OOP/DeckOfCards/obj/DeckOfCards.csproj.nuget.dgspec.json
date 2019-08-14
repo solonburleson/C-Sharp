@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\OOP\\DeckOfCards\\DeckOfCards.csproj": {}
+    "e:\\C-Sharp\\OOP\\DeckOfCards\\DeckOfCards.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\OOP\\DeckOfCards\\DeckOfCards.csproj": {
+    "e:\\C-Sharp\\OOP\\DeckOfCards\\DeckOfCards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\OOP\\DeckOfCards\\DeckOfCards.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\OOP\\DeckOfCards\\DeckOfCards.csproj",
         "projectName": "DeckOfCards",
-        "projectPath": "E:\\C-Sharp\\OOP\\DeckOfCards\\DeckOfCards.csproj",
+        "projectPath": "e:\\C-Sharp\\OOP\\DeckOfCards\\DeckOfCards.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\OOP\\DeckOfCards\\obj\\",
+        "outputPath": "e:\\C-Sharp\\OOP\\DeckOfCards\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

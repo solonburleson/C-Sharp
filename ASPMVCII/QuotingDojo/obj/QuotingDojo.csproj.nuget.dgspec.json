@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCII\\QuotingDojo\\QuotingDojo.csproj": {}
+    "e:\\C-Sharp\\ASPMVCII\\QuotingDojo\\QuotingDojo.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCII\\QuotingDojo\\QuotingDojo.csproj": {
+    "e:\\C-Sharp\\ASPMVCII\\QuotingDojo\\QuotingDojo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCII\\QuotingDojo\\QuotingDojo.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCII\\QuotingDojo\\QuotingDojo.csproj",
         "projectName": "QuotingDojo",
-        "projectPath": "E:\\C-Sharp\\ASPMVCII\\QuotingDojo\\QuotingDojo.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCII\\QuotingDojo\\QuotingDojo.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCII\\QuotingDojo\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCII\\QuotingDojo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

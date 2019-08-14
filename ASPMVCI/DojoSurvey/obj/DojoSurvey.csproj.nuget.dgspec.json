@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCI\\DojoSurvey\\DojoSurvey.csproj": {}
+    "e:\\C-Sharp\\ASPMVCI\\DojoSurvey\\DojoSurvey.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCI\\DojoSurvey\\DojoSurvey.csproj": {
+    "e:\\C-Sharp\\ASPMVCI\\DojoSurvey\\DojoSurvey.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCI\\DojoSurvey\\DojoSurvey.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCI\\DojoSurvey\\DojoSurvey.csproj",
         "projectName": "DojoSurvey",
-        "projectPath": "E:\\C-Sharp\\ASPMVCI\\DojoSurvey\\DojoSurvey.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCI\\DojoSurvey\\DojoSurvey.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCI\\DojoSurvey\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCI\\DojoSurvey\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

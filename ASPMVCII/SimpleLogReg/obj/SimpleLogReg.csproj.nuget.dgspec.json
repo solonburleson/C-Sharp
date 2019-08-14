@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\SimpleLogReg.csproj": {}
+    "e:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\SimpleLogReg.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\SimpleLogReg.csproj": {
+    "e:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\SimpleLogReg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\SimpleLogReg.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\SimpleLogReg.csproj",
         "projectName": "SimpleLogReg",
-        "projectPath": "E:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\SimpleLogReg.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\SimpleLogReg.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCII\\SimpleLogReg\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCI\\TimeDisplay\\TimeDisplay.csproj": {}
+    "e:\\C-Sharp\\ASPMVCI\\TimeDisplay\\TimeDisplay.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCI\\TimeDisplay\\TimeDisplay.csproj": {
+    "e:\\C-Sharp\\ASPMVCI\\TimeDisplay\\TimeDisplay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCI\\TimeDisplay\\TimeDisplay.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCI\\TimeDisplay\\TimeDisplay.csproj",
         "projectName": "TimeDisplay",
-        "projectPath": "E:\\C-Sharp\\ASPMVCI\\TimeDisplay\\TimeDisplay.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCI\\TimeDisplay\\TimeDisplay.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCI\\TimeDisplay\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCI\\TimeDisplay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

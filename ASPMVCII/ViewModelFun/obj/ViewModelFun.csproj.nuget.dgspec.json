@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCII\\ViewModelFun\\ViewModelFun.csproj": {}
+    "e:\\C-Sharp\\ASPMVCII\\ViewModelFun\\ViewModelFun.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCII\\ViewModelFun\\ViewModelFun.csproj": {
+    "e:\\C-Sharp\\ASPMVCII\\ViewModelFun\\ViewModelFun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCII\\ViewModelFun\\ViewModelFun.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCII\\ViewModelFun\\ViewModelFun.csproj",
         "projectName": "ViewModelFun",
-        "projectPath": "E:\\C-Sharp\\ASPMVCII\\ViewModelFun\\ViewModelFun.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCII\\ViewModelFun\\ViewModelFun.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCII\\ViewModelFun\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCII\\ViewModelFun\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCII\\Dojodachi\\Dojodachi.csproj": {}
+    "e:\\C-Sharp\\ASPMVCII\\Dojodachi\\Dojodachi.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCII\\Dojodachi\\Dojodachi.csproj": {
+    "e:\\C-Sharp\\ASPMVCII\\Dojodachi\\Dojodachi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCII\\Dojodachi\\Dojodachi.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCII\\Dojodachi\\Dojodachi.csproj",
         "projectName": "Dojodachi",
-        "projectPath": "E:\\C-Sharp\\ASPMVCII\\Dojodachi\\Dojodachi.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCII\\Dojodachi\\Dojodachi.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCII\\Dojodachi\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCII\\Dojodachi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

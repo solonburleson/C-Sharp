@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCI\\HelloASP\\HelloASP.csproj": {}
+    "e:\\C-Sharp\\ASPMVCI\\HelloASP\\HelloASP.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCI\\HelloASP\\HelloASP.csproj": {
+    "e:\\C-Sharp\\ASPMVCI\\HelloASP\\HelloASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCI\\HelloASP\\HelloASP.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCI\\HelloASP\\HelloASP.csproj",
         "projectName": "HelloASP",
-        "projectPath": "E:\\C-Sharp\\ASPMVCI\\HelloASP\\HelloASP.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCI\\HelloASP\\HelloASP.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCI\\HelloASP\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCI\\HelloASP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

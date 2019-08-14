@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCI\\RazorFun\\RazorFun.csproj": {}
+    "e:\\C-Sharp\\ASPMVCI\\RazorFun\\RazorFun.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCI\\RazorFun\\RazorFun.csproj": {
+    "e:\\C-Sharp\\ASPMVCI\\RazorFun\\RazorFun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCI\\RazorFun\\RazorFun.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCI\\RazorFun\\RazorFun.csproj",
         "projectName": "RazorFun",
-        "projectPath": "E:\\C-Sharp\\ASPMVCI\\RazorFun\\RazorFun.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCI\\RazorFun\\RazorFun.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCI\\RazorFun\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCI\\RazorFun\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

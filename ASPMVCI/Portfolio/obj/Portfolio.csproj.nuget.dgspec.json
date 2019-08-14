@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C-Sharp\\ASPMVCI\\Portfolio\\Portfolio.csproj": {}
+    "e:\\C-Sharp\\ASPMVCI\\Portfolio\\Portfolio.csproj": {}
   },
   "projects": {
-    "E:\\C-Sharp\\ASPMVCI\\Portfolio\\Portfolio.csproj": {
+    "e:\\C-Sharp\\ASPMVCI\\Portfolio\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C-Sharp\\ASPMVCI\\Portfolio\\Portfolio.csproj",
+        "projectUniqueName": "e:\\C-Sharp\\ASPMVCI\\Portfolio\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "E:\\C-Sharp\\ASPMVCI\\Portfolio\\Portfolio.csproj",
+        "projectPath": "e:\\C-Sharp\\ASPMVCI\\Portfolio\\Portfolio.csproj",
         "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
-        "outputPath": "E:\\C-Sharp\\ASPMVCI\\Portfolio\\obj\\",
+        "outputPath": "e:\\C-Sharp\\ASPMVCI\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "New Dish";
+}
+
+@using CRUDelicious.Models;
+@model Dish
+
+<h1 class="text-center my-5">Add a new Dish!</h1>
+<a href="/">Home</a>
+<form asp-action="create" asp-controller="Home" method="post">
+    <div class="col-10 mx-auto p-5 text-center">
+        <div class="d-inline-block col-3">
+            <label class="d-block" asp-for="Chef"></label>
+            <input class="d-block" asp-for="Chef" />
+            <label class="d-block" asp-for="Name"></label>
+            <input class="d-block" asp-for="Name" />
+            <label class="d-block" asp-for="Calories"></label>
+            <input class="d-block" asp-for="Calories" />
+        </div>
+        <div class="d-inline-block align-top col-3">
+            <label class="d-block" asp-for="Tastiness"></label>
+            <select asp-for="Tastiness">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+        <div class="d-inline-block align-top col-3">
+            <label class="d-block" asp-for="Description"></label>
+            <textarea class="d-block col-12" asp-for="Description" rows="4"></textarea>
+            <input class="btn btn-primary my-3" type="submit" />
+        </div>
+    </div>
+</form>

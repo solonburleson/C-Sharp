@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using CRUDelicious.Models;
+@using System.Collections.Generic;
+@model List<Dish>
+
+<h1 class="text-center my-5">Welcome to CRUDelicious</h1>
+<div class="col-8 d-inline-block">
+    <p>Check out some recent dishes!</p>
+    @foreach (var dish in Model)
+    {
+        <p><a href="@dish.DishId">@dish.Name</a> by @dish.Chef</p>
+    }
+</div>
+<a class="align-top" href="new">Add a Dish</a>
