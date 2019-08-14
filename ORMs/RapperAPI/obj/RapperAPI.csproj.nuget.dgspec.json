@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\C-Sharp\\ORMs\\RapperAPI\\RapperAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\C-Sharp\\ORMs\\RapperAPI\\RapperAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C-Sharp\\ORMs\\RapperAPI\\RapperAPI.csproj",
+        "projectName": "RapperAPI",
+        "projectPath": "E:\\C-Sharp\\ORMs\\RapperAPI\\RapperAPI.csproj",
+        "packagesPath": "C:\\Users\\Solon Burleson\\.nuget\\packages\\",
+        "outputPath": "E:\\C-Sharp\\ORMs\\RapperAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Solon Burleson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

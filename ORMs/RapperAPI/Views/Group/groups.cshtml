@@ -1,0 +1,13 @@
+<table>
+    <thead>
+        <th>Group Name</th>
+    </thead>
+    <tbody>
+        @foreach (var group in ViewBag.groups)
+        {
+            <tr>
+                <td>@group.GroupName</td>               
+            </tr>
+        }
+    </tbody>
+</table>

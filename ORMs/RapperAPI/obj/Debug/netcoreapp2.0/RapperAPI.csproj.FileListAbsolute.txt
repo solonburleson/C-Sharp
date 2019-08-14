@@ -1,0 +1,11 @@
+E:\C-Sharp\ORMs\RapperAPI\bin\Debug\netcoreapp2.0\RapperAPI.deps.json
+E:\C-Sharp\ORMs\RapperAPI\bin\Debug\netcoreapp2.0\RapperAPI.runtimeconfig.json
+E:\C-Sharp\ORMs\RapperAPI\bin\Debug\netcoreapp2.0\RapperAPI.runtimeconfig.dev.json
+E:\C-Sharp\ORMs\RapperAPI\bin\Debug\netcoreapp2.0\RapperAPI.dll
+E:\C-Sharp\ORMs\RapperAPI\bin\Debug\netcoreapp2.0\RapperAPI.pdb
+E:\C-Sharp\ORMs\RapperAPI\obj\Debug\netcoreapp2.0\RapperAPI.csprojAssemblyReference.cache
+E:\C-Sharp\ORMs\RapperAPI\obj\Debug\netcoreapp2.0\RapperAPI.csproj.CoreCompileInputs.cache
+E:\C-Sharp\ORMs\RapperAPI\obj\Debug\netcoreapp2.0\RapperAPI.AssemblyInfoInputs.cache
+E:\C-Sharp\ORMs\RapperAPI\obj\Debug\netcoreapp2.0\RapperAPI.AssemblyInfo.cs
+E:\C-Sharp\ORMs\RapperAPI\obj\Debug\netcoreapp2.0\RapperAPI.dll
+E:\C-Sharp\ORMs\RapperAPI\obj\Debug\netcoreapp2.0\RapperAPI.pdb

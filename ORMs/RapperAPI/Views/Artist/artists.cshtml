@@ -1,0 +1,19 @@
+<table>
+    <thead>
+        <th>Artist Name</th>
+        <th>Real Name</th>
+        <th>Age</th>
+        <th>Hometown</th>
+    </thead>
+    <tbody>
+        @foreach (var artist in ViewBag.artists)
+        {
+            <tr>
+                <td>@artist.ArtistName</td>
+                <td>@artist.RealName</td>
+                <td>@artist.Age</td>
+                <td>@artist.Hometown</td>
+            </tr>
+        }
+    </tbody>
+</table>
