@@ -56,10 +56,10 @@ namespace CRUDelicious.Controllers
         [HttpPost("updateDish")]
         public IActionResult UpdateDish(Dish updateDish)
         {
-            Console.WriteLine(updateDish.Name);
             if(ModelState.IsValid)
             {
                 Console.WriteLine("Saving");
+                //Can't get ID to pass through route & Dish object has ID of 0, had to go by name not ideal
                 Dish thisDish = dbContext.Dishes.FirstOrDefault(dish => dish.Name == updateDish.Name);
                 thisDish.Name = updateDish.Name;
                 thisDish.Chef = updateDish.Chef;

@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Registration";
+}
+
+<h1>Register for this Cool Site</h1>
+<a href="login">Login</a>
+
+@using LoginReg.Models;
+@model User
+
+<form asp-action="register" asp-controller="Home" method="post">
+    <div class="d-inline-block col-3">
+        <div>
+            <label asp-for="FirstName"></label>
+            <input class="d-block" asp-for="FirstName" />
+            <span class="text-danger" asp-validation-for="FirstName"></span>
+        </div>
+        <div>
+            <label asp-for="LastName"></label>
+            <input class="d-block" asp-for="LastName" />
+            <span class="text-danger" asp-validation-for="LastName"></span>
+        </div>
+        <div>
+            <label asp-for="Email"></label>
+            <input class="d-block" asp-for="Email" />
+            <span class="text-danger" asp-validation-for="Email"></span>
+        </div>
+    </div>
+    <div class="d-inline-block col-3 align-top">
+        <div>
+            <label asp-for="Password"></label>
+            <input class="d-block" asp-for="Password" />
+            <span class="text-danger" asp-validation-for="Password"></span>
+        </div>
+        <div>
+            <label asp-for="Confirm"></label>
+            <input class="d-block" asp-for="Confirm" />
+            <span class="text-danger" asp-validation-for="Confirm"></span>
+        </div>
+    </div>
+    <input class="btn btn-primary d-block m-3" type="submit" value="Register" />
+</form>

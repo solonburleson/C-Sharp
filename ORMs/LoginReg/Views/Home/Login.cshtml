@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Login";
+}
+
+@using LoginReg.Models;
+@model LoginUser
+<h1>Login to this Cool Site!</h1>
+<a href="/">Register</a>
+<form asp-action="userlogin" asp-controller="Home" method="post">
+    <div class="mx-3">
+        <div>
+            <label asp-for="Email"></label>
+            <span class="text-danger d-block" asp-validation-for="Email"></span>
+            <input asp-for="Email" />
+        </div>
+        <div>
+            <label asp-for="Password"></label>
+            <span class="text-danger d-block" asp-validation-for="Password"></span>
+            <input asp-for="Password" />
+        </div>
+        <input class="btn btn-success my-3" type="submit" value="Log In" />
+    </div>
+</form>
