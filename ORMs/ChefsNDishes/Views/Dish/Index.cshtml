@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "All Dishes";
+}
+
+@using ChefsNDishes.Models;
+@using System.Collections.Generic;
+@model List<Dish>
+
+<div class="p-5">
+    <h1 class="text-center col-11 d-inline-block"><a href="/">Chefs</a> | Dishes</h1>
+    <a href="/dishes/new">Add a Dish</a>
+</div>
+<h3 class="border-bottom border-dark col-6 p-2">Yum, take a look at our tasty dishes!</h3>
+<table class="table table-striped border">
+    <thead>
+        <th>Name</th>
+        <th>Chef</th>
+        <th>Tastiness</th>
+        <th>Calories</th>
+    </thead>
+    <tbody>
+        @foreach (var dish in Model)
+        {
+            <tr>
+                <td>@dish.Name</td>
+                <td>@dish.Creator.FirstName @dish.Creator.LastName</td>
+                <td>@dish.Tastiness</td>
+                <td>@dish.Calories</td>
+            </tr>
+        }
+    </tbody>
+</table>

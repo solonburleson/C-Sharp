@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "Add a Chef";
+}
+
+@using ChefsNDishes.Models;
+@model Chef
+
+<h1 class="text-center p-5">Add a Chef!</h1>
+<a href="/" class="d-inline-block mb-5">Home</a>
+
+<form asp-action="create" asp-controller="Home" method="post">
+    <div class="d-inline-block col-3">
+        <label class="d-block" asp-for="FirstName"></label>
+        <input asp-for="FirstName" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+        <label class="d-block" asp-for="LastName"></label>
+        <input asp-for="LastName" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="d-inline-block col-3 align-top">
+        <label class="d-block" asp-for="DOB"></label>
+        <input asp-for="DOB" />
+        <span asp-validation-for="DOB" class="text-danger"></span>
+        <input class="btn btn-primary mt-4" type="submit" value="Add Chef" />
+    </div>
+</form>

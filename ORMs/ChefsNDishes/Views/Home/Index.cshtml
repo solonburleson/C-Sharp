@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Chefs";
+}
+
+@using System.Collections.Generic;
+@using ChefsNDishes.Models;
+@model List<Chef>
+
+<div class="p-5">
+    <h1 class="text-center col-11 d-inline-block">Chefs | <a href="/dishes">Dishes</a></h1>
+    <a href="/new">Add a Chef</a>
+</div>
+<h3 class="border-bottom border-dark col-6 p-2">Check out our roster of Chefs!</h3>
+<table class="table table-striped border">
+    <thead>
+        <th>Name</th>
+        <th>Age</th>
+        <th># of Dishes</th>
+    </thead>
+    <tbody>
+        @foreach (var chef in Model)
+        {
+            DateTime today = DateTime.Now;
+            TimeSpan difference = today - chef.DOB;
+            int years = (int) (difference.TotalDays / 365.25);
+            <tr>
+                <td>@chef.FirstName @chef.LastName</td>
+                <td>@years</td>
+                <td>@chef.CreatedDishes.Count</td>
+            </tr>
+        }
+    </tbody>
+</table>

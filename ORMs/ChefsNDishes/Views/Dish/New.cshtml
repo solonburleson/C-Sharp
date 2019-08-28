@@ -1,0 +1,42 @@
+@{
+    ViewData["Title"] = "Add New Dish";
+}
+
+@using ChefsNDishes.Models;
+@model Dish
+
+<h1 class="text-center p-5">Add a Dish!</h1>
+<a href="/dishes" class="d-inline-block mb-5">Home</a>
+
+<form asp-action="create" asp-controller="Dish" method="post">
+    <div class="d-inline-block col-3">
+        <label class="d-block" asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+        <label class="d-block" asp-for="Calories"></label>
+        <input asp-for="Calories" />
+        <span asp-validation-for="Calories" class="text-danger"></span>
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description"></textarea>
+        <span asp-validation-for="Description"></span>
+    </div>
+    <div class="d-inline-block col-3 align-top">
+        <label class="d-block" asp-for="ChefId"></label>
+        <select class="d-block mb-5" asp-for="ChefId">
+            @foreach (var chef in ViewBag.allChefs)
+            {
+                <option value="@chef.ChefId">@chef.FirstName @chef.LastName</option>
+            }
+        </select>
+        <input class="btn btn-primary mt-4" type="submit" value="Add Dish" />
+    </div>
+    <div class="d-inline-block col-3 align-top">
+        <label asp-for="Tastiness"></label>
+        <select asp-for="Tastiness">
+            @for (int i = 1; i < 6; i++)
+            {
+                <option value="@i">@i</option>
+            }
+        </select>
+    </div>
+</form>
