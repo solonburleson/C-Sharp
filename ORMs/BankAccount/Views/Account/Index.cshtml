@@ -1,0 +1,28 @@
+@{
+    ViewData["Title"] = "Account Info";
+}
+
+@model Transaction
+
+<h1 class="col-9 d-inline-block">Welcome, @ViewBag.User.FirstName @ViewBag.User.LastName</h1>
+<span>Current Balance: <span class="col-1 border border-dark">$@ViewBag.sum</span></span>
+<form asp-action="create" asp-controller="Account" method="post">
+    <label asp-for="Amount"></label>
+    <input asp-for="Amount" type="number"/>
+    <input class="btn btn-primary" type="submit" />
+</form>
+<table class="table table-striped">
+    <thead>
+        <th>Amount</th>
+        <th>Date</th>
+    </thead>
+    <tbody>
+        @foreach (var t in ViewBag.User.Transactions)
+        {
+            <tr>
+                <td>@t.Amount</td>
+                <td>@t.CreatedAt.ToString("MMM dd yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>

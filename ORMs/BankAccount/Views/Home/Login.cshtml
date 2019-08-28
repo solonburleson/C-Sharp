@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "User Login";
+}
+
+@using BankAccount.Models;
+@model LoginUser
+<h1 class="col-5 text-center p-5">Login</h1>
+<form asp-action="validate" asp-controller="Home" method="post">
+    <span class="text-danger" asp-validation-for="Email"></span>
+    <span class="text-danger" asp-validation-for="Password"></span>
+    <div>
+        <label class="col-2" asp-for="Email"></label>
+        <input asp-for="Email" />
+    </div>
+    <div>
+        <label class="col-2" asp-for="Password"></label>
+        <input asp-for="Password" />
+        <a href="/">Need to Register?</a>
+    </div>
+    <input class="btn btn-success mx-3" type="submit" />
+</form>
